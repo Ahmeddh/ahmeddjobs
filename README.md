@@ -107,7 +107,7 @@ Design, integrate, and operate **reliable AI-powered automations** that connect 
   <a href="https://linkedin.com/in/ahmeddjobs"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:contact@djobs.net"><img src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail" /></a>
   <a href="https://djobs.net"><img src="https://img.shields.io/badge/Website-djobs.net-black?style=for-the-badge&logo=firefox" /></a>
-  <a href="https://github.com/ahmeddjobs"><img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ahmeddh"><img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
