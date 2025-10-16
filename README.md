@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Automation-Engineer-blueviolet?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Zapier-Make-n8n-orange?style=for-the-badge&logo=zapier" />
+  <img src="https://img.shields.io/badge/Zapier%20%7C%20Make%20%7C%20n8n-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-blue?style=for-the-badge&logo=githubactions" />
 </p>
 
