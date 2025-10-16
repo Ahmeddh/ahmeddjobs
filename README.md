@@ -95,15 +95,6 @@ Design, integrate, and operate **reliable AI-powered automations** that connect 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmeddjobs&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddjobs&theme=radical" />
-</p>
-
----
-
 ## 🧗‍♂️ Vision
 
 > “The future of business automation isn’t no-code — it’s *trustworthy AI + clean integration*.”
